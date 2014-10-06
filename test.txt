@@ -1,0 +1,7 @@
+total 16
+drwx------+  6 clarkzhao  staff   204 Oct  6 11:42 .
+drwxr-xr-x+ 16 clarkzhao  staff   544 Oct  6 11:42 ..
+-rw-r--r--@  1 clarkzhao  staff  6148 Oct  6 11:13 .DS_Store
+-rw-r--r--   1 clarkzhao  staff     0 Oct  4 12:12 .localized
+-rw-r--r--@  1 clarkzhao  staff     0 Oct  6 11:44 test.txt
+drwxr-xr-x   3 clarkzhao  staff   102 Oct  5 19:11 treehouse
